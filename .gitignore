@@ -154,3 +154,17 @@ Data/title.akas.tsv.gz
 Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
 Untitled.ipynb
+Data/title_akas_chunk_001.csv.gz
+Data/title_akas_chunk_002.csv.gz
+Data/title_akas_chunk_003.csv.gz
+Data/title_akas_chunk_004.csv.gz
+Data/title_akas_chunk_005.csv.gz
+Data/title_akas_chunk_006.csv.gz
+Data/title_akas_chunk_007.csv.gz
+Data/title_akas_chunk_008.csv.gz
+Data/title_akas_chunk_009.csv.gz
+Data/title_akas_chunk_010.csv.gz
+Data/title_akas_chunk_011.csv.gz
+Data/title_akas_chunk_012.csv.gz
+Data/title_akas_chunk_013.csv.gz
+*.gz
